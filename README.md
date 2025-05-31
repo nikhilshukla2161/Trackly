@@ -1,4 +1,4 @@
-# PennWise
+# Trackly
 
 A simple and intuitive expense tracker application built with ReactJS and TailwindCSS. This application allows users to add, delete, and edit transactions, categorize them as income or expenses, and visualize their financial data. It helps you manage your finances effectively by keeping track of all your transactions in one place.
 
@@ -14,7 +14,7 @@ A simple and intuitive expense tracker application built with ReactJS and Tailwi
 
 ## Demo
 
-Check out the live demo: [PennWise](https://tracklyexpansetracker.netlify.app/)
+Check out the live demo: [Trackly](https://tracklyexpansetracker.netlify.app/)
 
 ## Features
 
