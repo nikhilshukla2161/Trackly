@@ -14,7 +14,7 @@ A simple and intuitive expense tracker application built with ReactJS and Tailwi
 
 ## Demo
 
-Check out the live demo: [PennWise](https://pennwise.vercel.app/)
+Check out the live demo: [PennWise](https://tracklyexpansetracker.netlify.app/)
 
 ## Features
 
